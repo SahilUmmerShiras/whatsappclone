@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573369508567",
+    "firebase_url": "https://epic-club.firebaseio.com",
+    "project_id": "epic-club",
+    "storage_bucket": "epic-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573369508567:android:a39c089aa9038318800692",
+        "android_client_info": {
+          "package_name": "com.example.epicclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573369508567-pstn1coa2j9jgofv90d6f93u24klbv32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epicclub",
+            "certificate_hash": "d1c4fbc29fb69ae360007c57ce5d028a22be79bc"
+          }
+        },
+        {
+          "client_id": "573369508567-tgnc8oapd6jcn0on4k7m5tfui2mf8gj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoo35A1yhmqEeCZJotsx9w7_H1w5JcXAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573369508567-tgnc8oapd6jcn0on4k7m5tfui2mf8gj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
